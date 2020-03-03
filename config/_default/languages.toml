@@ -1,0 +1,5 @@
+[en]
+  title = "Home"
+  languageName = "English"
+  weight = 1
+  contentdir = "content"
